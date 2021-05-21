@@ -4,4 +4,4 @@ type: book  # Do not modify.
 toc: false
 ---
 
-Welcome to the _book_ template!
+Welcome to _Guide for using R Environment in spectral and hyperspectral data analysis_!
