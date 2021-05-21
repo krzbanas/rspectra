@@ -20,7 +20,14 @@ type: book  # Do not modify.
 ## Folder of ASCII files with the same structure
 
 
-## CSV matrix (observations vertical)
+## CSV matrix 
 
-## CSV matrix (observations horizontal)
+### observations vertical
+
+### observations horizontal
+
+
+## DPT file (export from OPUS)
+
+## ENVI file (export from OPUS)
 
